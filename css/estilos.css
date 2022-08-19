@@ -2,8 +2,17 @@ body
 {
     color: #333;
     text-align: left;
-    font-family: "Curier";
+    font-family: "Arial";
 }    
+#cabecera
+{
+    background: #33A;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+}
 #container
 {
     width: 70%;
